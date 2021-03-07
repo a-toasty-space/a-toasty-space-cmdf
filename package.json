@@ -1,0 +1,44 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "firebase-react",
+  "version": "0.0.1",
+  "description": "A simple Firebase and React starter app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "concurrently npm:webpack npm:server",
+    "server": "node server.js",
+    "webpack": "webpack --watch"
+  },
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "concurrently": "^4.0.1",
+    "copy-webpack-plugin": "^4.5.4",
+    "express": "^4.16.4",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2",
+    "rxjs": "^6.3.3",
+    "rxfire": "^3.0.8",
+    "firebase": "^5.5.6",
+    "firebase-tools": "^5.1.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/firebase-react"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
