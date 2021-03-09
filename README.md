@@ -2,7 +2,7 @@
 "Hey, do you want to go sit together by the fireplace for a while?"
 
 ## A Positive Space
-We at atoasty.space are on a mission - to provide everyone an easy access to a positive and inclusive environments to thrive in.
+We at atoasty.space are on a mission - to provide everyone an easy access to a positive and inclusive environments to thrive in. To make the world a butter place, one toast at a time!
 
 ## An Affirming Space
 For us, the goal of this project is to help people - particularly young woman* of colour in STEM - get affirmation for their hard work and achievements to help reinforce their sense of self-worth and belonging. 
